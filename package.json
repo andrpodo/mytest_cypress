@@ -1,0 +1,25 @@
+{
+  "name": "mytest_cypress",
+  "version": "1.0.0",
+  "main": "test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/andrpodo/mytest_cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrpodo/mytest_cypress/issues"
+  },
+  "homepage": "https://github.com/andrpodo/mytest_cypress#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.1.0"
+  }
+}
